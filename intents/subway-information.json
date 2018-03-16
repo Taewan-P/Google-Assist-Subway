@@ -1,0 +1,36 @@
+{
+  "id": "caa4cd4b-3874-49f1-91bb-a6332a8795c6",
+  "name": "subway-information",
+  "auto": true,
+  "contexts": [
+    "subway-info"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "@subway-info",
+      "affectedContexts": [
+        {
+          "name": "subway-info",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}
