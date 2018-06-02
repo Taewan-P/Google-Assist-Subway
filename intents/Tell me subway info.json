@@ -1,0 +1,56 @@
+{
+  "id": "4eb73216-05a4-42da-92f0-986e6c2e08d0",
+  "name": "Tell me subway info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "Tellmesubwayinfo-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "8e62ad6e-78c2-47f7-979c-742041a9408a",
+          "required": false,
+          "dataType": "@tranportation",
+          "name": "tranportation",
+          "value": "$tranportation",
+          "isList": false
+        },
+        {
+          "id": "cc375484-593f-4219-a9bb-976f509e7742",
+          "dataType": "@recursive",
+          "name": "recursive",
+          "value": "$recursive"
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "어느 역에 계시는지 알려주세요.",
+            "지금 어느 역에 있으신가요?",
+            "어느 역의 지하철 정보를 알고 싶으신가요?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "GOOGLE_ASSISTANT_WELCOME"
+    }
+  ]
+}

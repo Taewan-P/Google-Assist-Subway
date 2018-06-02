@@ -1,0 +1,429 @@
+[
+  {
+    "value": "가락시장",
+    "synonyms": [
+      "가락시장"
+    ]
+  },
+  {
+    "value": "가산디지털단지",
+    "synonyms": [
+      "가산디지털단지"
+    ]
+  },
+  {
+    "value": "강남",
+    "synonyms": [
+      "강남"
+    ]
+  },
+  {
+    "value": "강남구청",
+    "synonyms": [
+      "강남구청"
+    ]
+  },
+  {
+    "value": "건대입구",
+    "synonyms": [
+      "건대입구"
+    ]
+  },
+  {
+    "value": "검암",
+    "synonyms": [
+      "검암"
+    ]
+  },
+  {
+    "value": "계양",
+    "synonyms": [
+      "계양"
+    ]
+  },
+  {
+    "value": "광운대",
+    "synonyms": [
+      "광운대"
+    ]
+  },
+  {
+    "value": "교대",
+    "synonyms": [
+      "교대"
+    ]
+  },
+  {
+    "value": "군자",
+    "synonyms": [
+      "군자",
+      "능동"
+    ]
+  },
+  {
+    "value": "금정",
+    "synonyms": [
+      "금정"
+    ]
+  },
+  {
+    "value": "기흥",
+    "synonyms": [
+      "기흥"
+    ]
+  },
+  {
+    "value": "까치산",
+    "synonyms": [
+      "까치산"
+    ]
+  },
+  {
+    "value": "노량진",
+    "synonyms": [
+      "노량진"
+    ]
+  },
+  {
+    "value": "노원",
+    "synonyms": [
+      "노원"
+    ]
+  },
+  {
+    "value": "당산",
+    "synonyms": [
+      "당산"
+    ]
+  },
+  {
+    "value": "대곡",
+    "synonyms": [
+      "대곡"
+    ]
+  },
+  {
+    "value": "대림",
+    "synonyms": [
+      "대림"
+    ]
+  },
+  {
+    "value": "도곡",
+    "synonyms": [
+      "도곡"
+    ]
+  },
+  {
+    "value": "도봉산",
+    "synonyms": [
+      "도봉산"
+    ]
+  },
+  {
+    "value": "동대문",
+    "synonyms": [
+      "동대문"
+    ]
+  },
+  {
+    "value": "동묘앞",
+    "synonyms": [
+      "동묘앞"
+    ]
+  },
+  {
+    "value": "동작",
+    "synonyms": [
+      "동작"
+    ]
+  },
+  {
+    "value": "망우",
+    "synonyms": [
+      "망우"
+    ]
+  },
+  {
+    "value": "모란",
+    "synonyms": [
+      "모란"
+    ]
+  },
+  {
+    "value": "보문",
+    "synonyms": [
+      "보문"
+    ]
+  },
+  {
+    "value": "복정",
+    "synonyms": [
+      "복정"
+    ]
+  },
+  {
+    "value": "불공",
+    "synonyms": [
+      "불공"
+    ]
+  },
+  {
+    "value": "사당",
+    "synonyms": [
+      "사당"
+    ]
+  },
+  {
+    "value": "삼각지",
+    "synonyms": [
+      "삼각지"
+    ]
+  },
+  {
+    "value": "석계",
+    "synonyms": [
+      "석계"
+    ]
+  },
+  {
+    "value": "선정릉",
+    "synonyms": [
+      "선정릉"
+    ]
+  },
+  {
+    "value": "성신여대입구",
+    "synonyms": [
+      "성신여대입구"
+    ]
+  },
+  {
+    "value": "수서",
+    "synonyms": [
+      "수서"
+    ]
+  },
+  {
+    "value": "수원",
+    "synonyms": [
+      "수원"
+    ]
+  },
+  {
+    "value": "시청",
+    "synonyms": [
+      "시청"
+    ]
+  },
+  {
+    "value": "신당",
+    "synonyms": [
+      "신당"
+    ]
+  },
+  {
+    "value": "신길",
+    "synonyms": [
+      "신길"
+    ]
+  },
+  {
+    "value": "신도림",
+    "synonyms": [
+      "신도림"
+    ]
+  },
+  {
+    "value": "약수",
+    "synonyms": [
+      "약수"
+    ]
+  },
+  {
+    "value": "양재",
+    "synonyms": [
+      "양재"
+    ]
+  },
+  {
+    "value": "여의도",
+    "synonyms": [
+      "여의도"
+    ]
+  },
+  {
+    "value": "연신내",
+    "synonyms": [
+      "연신내"
+    ]
+  },
+  {
+    "value": "영등포구청",
+    "synonyms": [
+      "영등포구청"
+    ]
+  },
+  {
+    "value": "오이도",
+    "synonyms": [
+      "오이도"
+    ]
+  },
+  {
+    "value": "오금",
+    "synonyms": [
+      "오금"
+    ]
+  },
+  {
+    "value": "옥수",
+    "synonyms": [
+      "옥수"
+    ]
+  },
+  {
+    "value": "온수",
+    "synonyms": [
+      "온수"
+    ]
+  },
+  {
+    "value": "용산",
+    "synonyms": [
+      "용산"
+    ]
+  },
+  {
+    "value": "용유",
+    "synonyms": [
+      "용유"
+    ]
+  },
+  {
+    "value": "을지로3가",
+    "synonyms": [
+      "을지로3가"
+    ]
+  },
+  {
+    "value": "을지로4가",
+    "synonyms": [
+      "을지로4가"
+    ]
+  },
+  {
+    "value": "이매",
+    "synonyms": [
+      "이매"
+    ]
+  },
+  {
+    "value": "이수",
+    "synonyms": [
+      "이수"
+    ]
+  },
+  {
+    "value": "이촌",
+    "synonyms": [
+      "이촌"
+    ]
+  },
+  {
+    "value": "인천",
+    "synonyms": [
+      "인천"
+    ]
+  },
+  {
+    "value": "인천공항1터미널",
+    "synonyms": [
+      "인천공항1터미널"
+    ]
+  },
+  {
+    "value": "잠실",
+    "synonyms": [
+      "잠실"
+    ]
+  },
+  {
+    "value": "정자",
+    "synonyms": [
+      "정자"
+    ]
+  },
+  {
+    "value": "종합운동장",
+    "synonyms": [
+      "종합운동장"
+    ]
+  },
+  {
+    "value": "중랑",
+    "synonyms": [
+      "중랑"
+    ]
+  },
+  {
+    "value": "창동",
+    "synonyms": [
+      "창동"
+    ]
+  },
+  {
+    "value": "천호",
+    "synonyms": [
+      "천호"
+    ]
+  },
+  {
+    "value": "청구",
+    "synonyms": [
+      "청구"
+    ]
+  },
+  {
+    "value": "충무로",
+    "synonyms": [
+      "충무로"
+    ]
+  },
+  {
+    "value": "충정로",
+    "synonyms": [
+      "충정로"
+    ]
+  },
+  {
+    "value": "태릉입구",
+    "synonyms": [
+      "태릉입구"
+    ]
+  },
+  {
+    "value": "판교",
+    "synonyms": [
+      "판교"
+    ]
+  },
+  {
+    "value": "합정",
+    "synonyms": [
+      "합정"
+    ]
+  },
+  {
+    "value": "회룡",
+    "synonyms": [
+      "회룡"
+    ]
+  },
+  {
+    "value": "효창공원앞",
+    "synonyms": [
+      "효창공원앞"
+    ]
+  }
+]

@@ -1,0 +1,203 @@
+[
+  {
+    "id": "144b56f5-9883-4294-a056-c2206592cced",
+    "data": [
+      {
+        "text": "하철아",
+        "alias": "recursive",
+        "meta": "@recursive",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "지하철",
+        "alias": "tranportation",
+        "meta": "@tranportation",
+        "userDefined": false
+      },
+      {
+        "text": " 언제 ",
+        "userDefined": false
+      },
+      {
+        "text": "오는",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "지 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "62d95866-9db4-4418-a23c-4896e117a9dc",
+    "data": [
+      {
+        "text": "하철아",
+        "alias": "recursive",
+        "meta": "@recursive",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "지하철",
+        "alias": "tranportation",
+        "meta": "@tranportation",
+        "userDefined": false
+      },
+      {
+        "text": " 언제",
+        "userDefined": false
+      },
+      {
+        "text": "오",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "니",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ca0147c7-f3ba-48b8-8f28-6feb682b3aa6",
+    "data": [
+      {
+        "text": "하철아",
+        "alias": "recursive",
+        "meta": "@recursive",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "지하철",
+        "alias": "tranportation",
+        "meta": "@tranportation",
+        "userDefined": true
+      },
+      {
+        "text": " 언제와?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "db88ef50-ac34-436a-b9ee-bdfbe618ecdf",
+    "data": [
+      {
+        "text": "지하철",
+        "alias": "tranportation",
+        "meta": "@tranportation",
+        "userDefined": false
+      },
+      {
+        "text": " 언제 와?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9eb98608-e3b5-4bc6-a8fd-c0489314afed",
+    "data": [
+      {
+        "text": "전철",
+        "alias": "tranportation",
+        "meta": "@tranportation",
+        "userDefined": false
+      },
+      {
+        "text": " 언제 오는지 알려줘.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "5ce4d2cc-dcf4-4316-93c0-0b2898eb4362",
+    "data": [
+      {
+        "text": "전철",
+        "alias": "tranportation",
+        "meta": "@tranportation",
+        "userDefined": false
+      },
+      {
+        "text": " 언제 와?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68b9b0a3-9733-4b71-884e-691caa46ff2a",
+    "data": [
+      {
+        "text": "지하철",
+        "alias": "tranportation",
+        "meta": "@tranportation",
+        "userDefined": false
+      },
+      {
+        "text": " 언제 오는지 알려줘.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "b11c30c7-b29a-4a45-af4d-62bcc4cbc49d",
+    "data": [
+      {
+        "text": "지하철",
+        "alias": "tranportation",
+        "meta": "@tranportation",
+        "userDefined": false
+      },
+      {
+        "text": " 정보 알려줘.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4dae654a-0691-4215-997b-13e19b5cf5a3",
+    "data": [
+      {
+        "text": "지하철",
+        "alias": "tranportation",
+        "meta": "@tranportation",
+        "userDefined": false
+      },
+      {
+        "text": " 언제 오니?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

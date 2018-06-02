@@ -1,0 +1,135 @@
+[
+  {
+    "id": "2805a20c-f5c3-4162-890e-8906ae1f4bb9",
+    "data": [
+      {
+        "text": "디지털미디어시티",
+        "alias": "three-station-name",
+        "meta": "@three-station-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38d77d57-5187-4870-b6cb-e0671ddb1c47",
+    "data": [
+      {
+        "text": "공덕",
+        "alias": "four-station-name",
+        "meta": "@four-station-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "4c94c47f-e038-458a-ab98-a09ff957db46",
+    "data": [
+      {
+        "text": "복정",
+        "alias": "two-station-name",
+        "meta": "@two-station-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "194d0627-6ade-4e79-bfef-bd3b56a0c20c",
+    "data": [
+      {
+        "text": "대곡",
+        "alias": "two-station-name",
+        "meta": "@two-station-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "9ccf9377-e215-4e33-8cc3-190f0636aa7c",
+    "data": [
+      {
+        "text": "김포공항",
+        "alias": "three-station-name",
+        "meta": "@three-station-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "68795d80-714c-4f34-a3f8-99b21d6ee41c",
+    "data": [
+      {
+        "text": "왕십리",
+        "alias": "four-station-name",
+        "meta": "@four-station-name",
+        "userDefined": false
+      },
+      {
+        "text": "역",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e18b467c-5596-4ce6-8c4a-e873ab982b42",
+    "data": [
+      {
+        "text": "고속터미널",
+        "alias": "three-station-name",
+        "meta": "@three-station-name",
+        "userDefined": false
+      },
+      {
+        "text": "역",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "e9bc0f70-bb99-4a86-b188-e7ec92e695e2",
+    "data": [
+      {
+        "text": "사당",
+        "alias": "two-station-name",
+        "meta": "@two-station-name",
+        "userDefined": false
+      },
+      {
+        "text": "역",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "0bb6c5c5-9e03-42a7-aae8-04f219d2ff5d",
+    "data": [
+      {
+        "text": "서울",
+        "alias": "four-station-name",
+        "meta": "@four-station-name",
+        "userDefined": false
+      },
+      {
+        "text": "역",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "id": "1739d12c-4dfe-4ad9-b7aa-7b91e5ad9b9e",
+  "id": "2682fc4f-527a-4f03-8ab4-ccbb1f28662d",
   "name": "Default Welcome Intent",
   "auto": true,
   "contexts": [],
@@ -13,10 +13,7 @@
         {
           "type": 0,
           "lang": "ko",
-          "speech": [
-            "안녕!",
-            "안녕하세요!"
-          ]
+          "speech": "안녕하세요! 저는 하철이에요."
         }
       ],
       "defaultResponsePlatforms": {},

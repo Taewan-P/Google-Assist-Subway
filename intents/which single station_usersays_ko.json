@@ -1,0 +1,152 @@
+[
+  {
+    "id": "63662b6f-e80d-4691-817f-421e51d5db0b",
+    "data": [
+      {
+        "text": "명학",
+        "alias": "one-station-name",
+        "meta": "@one-station-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cadd712-89c5-4754-ad8f-9f8e6368ea19",
+    "data": [
+      {
+        "text": "서대문",
+        "alias": "one-station-name",
+        "meta": "@one-station-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2bb73edc-9d70-43af-aa95-dab7841756c8",
+    "data": [
+      {
+        "text": "흑석",
+        "alias": "one-station-name",
+        "meta": "@one-station-name",
+        "userDefined": true
+      },
+      {
+        "text": "역",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "3cd9c220-303b-4045-beb0-fa9bf9ace8fc",
+    "data": [
+      {
+        "text": "대청",
+        "alias": "one-station-name",
+        "meta": "@one-station-name",
+        "userDefined": true
+      },
+      {
+        "text": "역",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ecf139e2-7f47-4c0b-afe6-e62c8f11863c",
+    "data": [
+      {
+        "text": "한대앞",
+        "alias": "one-station-name",
+        "meta": "@one-station-name",
+        "userDefined": true
+      },
+      {
+        "text": "역",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "84bc5b9a-a4aa-4581-b496-546167d77e69",
+    "data": [
+      {
+        "text": "대청",
+        "alias": "one-station-name",
+        "meta": "@one-station-name",
+        "userDefined": true
+      },
+      {
+        "text": "역 ",
+        "userDefined": false
+      },
+      {
+        "text": "정",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "보 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c0f1ef54-4522-4b5f-a1ea-37c8273b741e",
+    "data": [
+      {
+        "text": "중앙",
+        "alias": "one-station-name",
+        "meta": "@one-station-name",
+        "userDefined": true
+      },
+      {
+        "text": "역 ",
+        "userDefined": false
+      },
+      {
+        "text": "정",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "보 알려줘",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "79cd11f4-e477-473c-b2f7-5a4654623b34",
+    "data": [
+      {
+        "text": "소요산",
+        "alias": "one-station-name",
+        "meta": "@one-station-name",
+        "userDefined": true
+      },
+      {
+        "text": "역",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1
+  }
+]

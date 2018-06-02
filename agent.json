@@ -2,24 +2,36 @@
   "description": "",
   "language": "ko",
   "disableInteractionLogs": false,
+  "disableStackdriverLogs": true,
   "googleAssistant": {
     "googleAssistantCompatible": true,
+    "project": "subway-information",
     "welcomeIntentSignInRequired": false,
     "startIntents": [],
     "systemIntents": [],
-    "endIntentIds": [],
+    "endIntentIds": [
+      "57af9503-b7c1-4604-b783-168ffd99c3dd",
+      "5e36752f-7c7c-4b38-9a13-58254ff5c92e"
+    ],
     "oAuthLinking": {
       "required": false,
       "grantType": "AUTH_CODE_GRANT"
     },
     "voiceType": "MALE_1",
     "capabilities": [],
-    "protocolVersion": "V2"
+    "protocolVersion": "V2",
+    "autoPreviewEnabled": true,
+    "isDeviceAgent": false
   },
   "defaultTimezone": "Asia/Tokyo",
   "webhook": {
-    "available": false,
-    "useForDomains": false,
+    "url": "https://subway-webhook.appspot.com/",
+    "username": "",
+    "headers": {
+      "": ""
+    },
+    "available": true,
+    "useForDomains": true,
     "cloudFunctionsEnabled": false,
     "cloudFunctionsInitialized": false
   },
@@ -27,5 +39,5 @@
   "customClassifierMode": "use.after",
   "mlMinConfidence": 0.3,
   "supportedLanguages": [],
-  "enableOnePlatformApi": false
+  "onePlatformApiVersion": "v2"
 }

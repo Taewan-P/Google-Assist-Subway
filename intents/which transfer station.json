@@ -1,0 +1,64 @@
+{
+  "id": "5e36752f-7c7c-4b38-9a13-58254ff5c92e",
+  "parentId": "4eb73216-05a4-42da-92f0-986e6c2e08d0",
+  "rootParentId": "4eb73216-05a4-42da-92f0-986e6c2e08d0",
+  "name": "which transfer station",
+  "auto": true,
+  "contexts": [
+    "Tellmesubwayinfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Tellmesubwayinfo.Tellmesubwayinfo-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "a87f1052-a850-43f8-bcc7-25e78b311db3",
+          "required": false,
+          "dataType": "@four-station-name",
+          "name": "four-station-name",
+          "value": "$four-station-name",
+          "isList": false
+        },
+        {
+          "id": "121bd166-3314-4cda-b9df-e9a2fa90dd5f",
+          "required": false,
+          "dataType": "@two-station-name",
+          "name": "two-station-name",
+          "value": "$two-station-name",
+          "isList": false
+        },
+        {
+          "id": "d68f26a8-a49a-4873-aa0e-51a3cce97dc6",
+          "required": false,
+          "dataType": "@three-station-name",
+          "name": "three-station-name",
+          "value": "$three-station-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": [
+            "환승역에 계시는군요. $two-station-name역 정보를 가져오는 중입니다...",
+            "환승역에 계시는군요. $three-station-name역 정보를 가져오는 중입니다...",
+            "환승역에 계시는군요. $four-station-name역 정보를 가져오는 중입니다..."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189119621,
+  "fallbackIntent": false,
+  "events": []
+}

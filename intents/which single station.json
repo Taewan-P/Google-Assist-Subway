@@ -1,0 +1,44 @@
+{
+  "id": "57af9503-b7c1-4604-b783-168ffd99c3dd",
+  "parentId": "4eb73216-05a4-42da-92f0-986e6c2e08d0",
+  "rootParentId": "4eb73216-05a4-42da-92f0-986e6c2e08d0",
+  "name": "which single station",
+  "auto": true,
+  "contexts": [
+    "Tellmesubwayinfo-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Tellmesubwayinfo.Tellmesubwayinfo-custom",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "362df923-fdfe-498c-9be0-fd473292e3e3",
+          "required": false,
+          "dataType": "@one-station-name",
+          "name": "one-station-name",
+          "value": "$one-station-name",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "ko",
+          "speech": "$one-station-name역 정보를 가져오는 중입니다..."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": true,
+  "lastUpdate": 1508189119621,
+  "fallbackIntent": false,
+  "events": []
+}
